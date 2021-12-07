@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b7461a1-bb06-4b81-986c-327aa129194c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fr/commercial/product/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fr/commercial/Commercial.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/fr/commercial/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fr/commercial/Main.java" afterDir="false" />
     </list>
@@ -26,7 +25,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="21xhVrEe1ZqzeA0tJDYOs9nuGvA" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -59,7 +60,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1638888672640</updated>
-      <workItem from="1638888673822" duration="1053000" />
+      <workItem from="1638888673822" duration="5200000" />
     </task>
     <servers />
   </component>
